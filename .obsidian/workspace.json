@@ -6,19 +6,20 @@
       {
         "id": "c27db3cc951edadc",
         "type": "tabs",
+        "dimension": 76.52582159624413,
         "children": [
           {
             "id": "38e054ab784385e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TypeScript_Language/TypeScript_Knowledge_Graph.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Notion-Migrated-Tech-Notes/ARCHIVE-REPORT.md",
+                "bFile": "Notion-Migrated-Tech-Notes/ARCHIVE-REPORT.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "TypeScript_Knowledge_Graph"
+              "icon": "diff",
+              "title": "Diff: ARCHIVE-REPORT"
             }
           },
           {
@@ -35,12 +36,12 @@
               "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6fbf800b8ac879eb",
         "type": "tabs",
+        "dimension": 23.474178403755865,
         "children": [
           {
             "id": "26d699eb05ceae98",
@@ -207,19 +208,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3c2ff4a414a2393",
+  "active": "38e054ab784385e6",
   "lastOpenFiles": [
+    "MCP/MCP-Setup/01_MCPの概要と導入方法.md",
+    "LT_Ideas/Contents_Graph.md",
+    "TypeScript_Language/TypeScript_Knowledge_Graph.md",
+    "LT_Ideas",
+    "Notion-Migrated-Tech-Notes/WebAssembly/WebAssembly-Memory-Allocator.md",
+    "Notion-Migrated-Tech-Notes/WebAssembly/WebAssembly-Links.md",
+    "Notion-Migrated-Tech-Notes/Tauri/Tauri-React.md",
+    "Notion-Migrated-Tech-Notes/Tauri/Tauri-Development-Environment.md",
+    "Notion-Migrated-Tech-Notes/Rust/Rust-DevContainer-WebAssembly開発.md",
+    "Notion-Migrated-Tech-Notes/Rust/Rust-C-FFI.md",
+    "Notion-Migrated-Tech-Notes/Next.js/Next.js-Knowledges.md",
+    "Notion-Migrated-Tech-Notes/DevContainer/DevContainer-Proxy.md",
+    "Notion-Migrated-Tech-Notes/DevContainer/DevContainer-CLI.md",
+    "Notion-Migrated-Tech-Notes/WebAssembly",
+    "Notion-Migrated-Tech-Notes/Tauri",
+    "Notion-Migrated-Tech-Notes/Rust",
+    "Notion-Migrated-Tech-Notes/README.md",
+    "Notion-Migrated-Tech-Notes/Next.js",
+    "Notion-Migrated-Tech-Notes/DevContainer",
+    "Notion-Migrated-Tech-Notes/ARCHIVE-REPORT.md",
+    "Notion-Migrated-Tech-Notes",
     "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/template.rs",
     "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/status.rs",
     "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/stats.rs",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/new.rs",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/mod.rs",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/migrate.rs",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/list.rs",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/info.rs",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/src/cli/commands/config.rs",
-    "Projects/_TEMPLATES/Web-App-Project/assets/mockups",
-    "Projects/_TEMPLATES/Web-App-Project/assets/images",
     "Projects/_TEMPLATES/Content-Project/00_PROJECT-OVERVIEW.md",
     "Projects/_TEMPLATES/Web-App-Project/01_Requirements.md",
     "Projects/_TEMPLATES/Web-App-Project/00_PROJECT-OVERVIEW.md",
@@ -231,19 +245,6 @@
     "Projects/2025-07-01_LIFF_ItemManager/00_PROJECT-OVERVIEW.md",
     "Projects/2025-06-18_Tool_ObsidianProjectCLI/README.md",
     "Projects/2025-06-18_Tool_ObsidianProjectCLI/03_Development-Log.md",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/02_Tool-Design.md",
-    "Projects/2025-06-18_Tool_ObsidianProjectCLI/00_PROJECT-OVERVIEW.md",
-    "Projects/README.md",
-    "Projects/PROJECT-DIRECTORY-GUIDE.md",
-    "MedicineLIFFApp-Development-Vault/README.md",
-    "MedicineLIFFApp-Development-Vault/07_運用・保守.md",
-    "MedicineLIFFApp-Development-Vault/06_デプロイメント.md",
-    "MedicineLIFFApp-Development-Vault/04_開発計画.md",
-    "MedicineLIFFApp-Development-Vault/05_実装サンプル.md",
-    "MedicineLIFFApp-Development-Vault/03_技術仕様.md",
-    "MedicineLIFFApp-Development-Vault/02_要件定義.md",
-    "MedicineLIFFApp-Development-Vault/01_プロジェクト概要.md",
-    "Development-Flow/Development-Docs/_TEMPLATES/Web-App-Template/Requirements.md",
-    "Development-Flow/Development-Docs/_TEMPLATES/Web-App-Template/README.md"
+    "Projects/2025-06-18_Tool_ObsidianProjectCLI/02_Tool-Design.md"
   ]
 }
