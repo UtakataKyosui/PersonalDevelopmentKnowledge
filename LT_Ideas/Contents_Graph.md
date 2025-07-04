@@ -14,3 +14,4 @@
 - [[「Rustで動作するRails」は存在する！！（Rust Backend Framework "Loco"）]]
 - [[Misskeyのサーバを一時期立てていた話]]
 - [[ポモドーロテクニックの進化系「チャンクポモドーロ」について]]
+- [[YOU MUST SETTING Claude Code SET DENY!!]]
