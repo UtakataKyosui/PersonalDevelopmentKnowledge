@@ -4,137 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c27db3cc951edadc",
+        "id": "92ea8e8a0958d237",
         "type": "tabs",
         "children": [
           {
-            "id": "38e054ab784385e6",
+            "id": "cd7ca70728af18c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NextJS_AppRouter_LIFF/Zenn Article Graph.md",
-                "mode": "source",
-                "source": false
+                "file": "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 21.11.36.png"
               },
-              "icon": "lucide-file",
-              "title": "Zenn Article Graph"
-            }
-          },
-          {
-            "id": "80c984612cf126f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NextJS_AppRouter_LIFF/Zenn Article Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zenn Article Graph"
-            }
-          },
-          {
-            "id": "40386ac330ff61c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NextJS_AppRouter_LIFF/Zenn Article Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zenn Article Graph"
-            }
-          },
-          {
-            "id": "6f245918c7ad997a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NextJS_AppRouter_LIFF/Zenn Article Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zenn Article Graph"
-            }
-          },
-          {
-            "id": "2e1b7b2683804d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "T3_Stack/T3_Stack_Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "T3_Stack_Graph"
-            }
-          },
-          {
-            "id": "ab61278639a40ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "T3_Stack/T3_Stack_Graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "T3_Stack_Graph"
-            }
-          },
-          {
-            "id": "6ea434a5619a6830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloudflare_Worker_Contents/ChunkPomodoro_WebHook_Workers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ChunkPomodoro_WebHook_Workers"
-            }
-          },
-          {
-            "id": "ddf83dbe709dfef1",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "CLI-TUI-Development/Rust-Crates/Utility-Crates.md",
-                "bFile": "CLI-TUI-Development/Rust-Crates/Utility-Crates.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Utility-Crates"
-            }
-          },
-          {
-            "id": "7869e4d07ef354cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "T3_Stack/コスパ最強アーキテクチャT3-Turboを紹介する.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "コスパ最強アーキテクチャT3-Turboを紹介する"
+              "icon": "lucide-image",
+              "title": "スクリーンショット 2025-07-08 21.11.36"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Claude Code ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 355.5
   },
   "right": {
     "id": "77e863fcbee3bef4",
@@ -290,43 +174,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddf83dbe709dfef1",
+  "active": "cd7ca70728af18c4",
   "lastOpenFiles": [
-    "GitHub_Action/GitHub_Action_Graph.md",
-    "Cloudflare_Worker_Contents/ChunkPomodoro_WebHook_Workers.md",
-    "GitHub_Action",
-    "無題のフォルダ",
-    "LT_Ideas/Contents_Graph.md",
-    "Cloudflare_Worker_Contents",
-    "LT_Ideas/「Rustで動作するRails」は存在する！！（Rust Backend Framework \"Loco\"）.md",
-    "Obsidian_Plugin_Development/Obsidian_Plugin_Development_Graph.md",
-    "Obsidian_Plugin_Development/📕Obsidianプラグイン開発チュートリアル - Minerva.md",
-    "Obsidian_Plugin_Development",
-    "CLI-TUI-Development/Rust-Crates/Best-Practices.md",
-    "CLI-TUI-Development/Rust-Crates/CLI-Crates.md",
-    "React_Ink_CLI_TUI_Library.md",
-    "CLI-TUI-Development/Rust-Crates/Utility-Crates.md",
-    "CLI-TUI-Development/Rust-Crates/TUI-Crates.md",
-    "CLI-TUI-Development/Examples/Comparison",
-    "CLI-TUI-Development/Examples/Rust-Examples",
-    "CLI-TUI-Development/Examples/React-Ink-Examples",
-    "CLI-TUI-Development/Rust-Crates/Rust-CLI-TUI-Overview.md",
-    "CLI-TUI-Development/React-Ink/Installation-Setup.md",
-    "CLI-TUI-Development/React-Ink/React-Ink-Overview.md",
-    "CLI-TUI-Development/README.md",
-    "CLI-TUI-Development/Examples",
-    "CLI-TUI-Development/Rust-Crates",
-    "CLI-TUI-Development/React-Ink",
-    "TypeScript_TypeChallenges/TypeScript Type-Challenges 解答パターンと共通規則.md",
-    "TypeScript_TypeChallenges/TypeScript Type-Challenges AI参考ガイド - 実装パターン詳解.md",
-    "TypeScript_TypeChallenges/TypeScript_TypeChallenges_Graph.md",
-    "TypeScript_TypeChallenges/Array to KV Object Type.md",
-    "TypeScript_TypeChallenges/Awaited Type Promise Resolve Type.md",
-    "TypeScript_TypeChallenges/Boolean if Type Change.md",
-    "TypeScript_TypeChallenges/Object Type Properties Pick.md",
-    "TypeScript_TypeChallenges/Readonly Type.md",
-    "TypeScript_TypeChallenges/Tuple Length Return Type.md",
-    "TypeScript_TypeChallenges/Array Push Generic Type.md",
-    "T3_Stack/Full-Stack TypeScriptの最終到達点、T3-Turboで新規開発した話.md"
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 21.16.25.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 21.13.23.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 21.13.15.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 20.31.47.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 20.07.59.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 19.52.43.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 19.50.31.png",
+    "Claude Code/Claude Code MeetUp/images/00_MeetUp_Original/スクリーンショット 2025-07-08 19.02.43.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 19.02.24.png",
+    "Claude Code/Claude Code MeetUp/images/06_ezboard/スクリーンショット 2025-07-08 20.57.20.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File/スクリーンショット 2025-07-08 21.11.36.png",
+    "Claude Code/Claude Code MeetUp/images/Please_Delete_File",
+    "Claude Code/Claude Code MeetUp/images/未分類",
+    "Claude Code/Claude Code MeetUp/images/08_Vibe_Coding",
+    "Claude Code/Claude Code MeetUp/images/06_ezboard",
+    "Claude Code/Claude Code MeetUp/images/05_ADK_A2A",
+    "Claude Code/Claude Code MeetUp/images/00_MeetUp_Original",
+    "Claude Code/Claude Code MeetUp/images/01_Claude_Codeの新潮流",
+    "Wont_to_Contents/ccautoprompter/Requirements_Definition.md",
+    "Wont_to_Contents/Phantom Moon/Index.md",
+    "Wont_to_Contents/Development Server Port Observer/Requirements_Definition.md",
+    "Wont_to_Contents/Development Server Port Observer/Index.md",
+    "Wont_to_Contents/ccautoprompter/Index.md",
+    "Wont_to_Contents/Want_To_Develop_Obsidian_Templates/Index.md",
+    "Wont_to_Contents/ccautoprompter",
+    "Wont_to_Contents/Want_To_Develop_Obsidian_Templates/Requirements_Definition.md",
+    "DONT_USE_ANY_TYPE.md",
+    "Claude Code/Claude Code MeetUp/07_Claude_Codeによる並列開発のすすめ.md",
+    "ccautoprompter",
+    "Claude Code/Claude Code MeetUp/06_Claude_Codeでezboard.aiを開発した.md",
+    "Claude Code/Claude Code MeetUp/05_Claude_Codeの知らない知識、ADK_A2Aを用いたプロダクト開発をClaude_Codeで行う.md",
+    "Claude Code/Claude Code MeetUp/04_Claude_CodeでClaude_Codeをハックする.md",
+    "Claude Code/Claude Code MeetUp/09_Claude_Code+Cursor+Container_use(C3Stack仮)で作るローカル並列開発環境の進め.md",
+    "Claude Code/Claude Code MeetUp/08_Claude_CodeでVibe_Codingして作ったClaude_Codeをコマンドラインから呼ぶために作ったプラグイン.md",
+    "Claude Code/Claude Code MeetUp/03_Claude_Codeにプロジェクト管理やらせてみた.md",
+    "Claude Code/Claude Code MeetUp/02_テストから始めるエージェンティックコーディング_Claude_Codeと共に行うTDD.md",
+    "Claude Code/Claude Code MeetUp/01_Claude_Codeの新潮流.md",
+    "Claude Code/Claude Code MeetUp/README.md",
+    "Claude Code/Claude Code MeetUp/LIVE_Claude_CodeでClaude_Codeをハックする.md",
+    "05_Claude Codeの知らない知識、ADK,A2Aを用いたプロダクト開発をClaude Codeで行う.md",
+    "Claude Code/Claude Code MeetUp/00_MeetUp_Original.md",
+    "Claude Code/Claude Code MeetUp/LIVE_今回のMeetUpメモ.md",
+    "Claude Code/Claude Code Advanced Usage.md",
+    "Claude Code/Claude Code MeetUp/LIVE_Claude_Codeにプロジェクト管理やらせてみた.md",
+    "Claude Code/Claude Code MeetUp/LIVE_クラスメソッドさんのお話.md",
+    "update_image_links.sh"
   ]
 }
